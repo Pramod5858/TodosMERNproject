@@ -6,3 +6,4 @@ When new signup is done otp email is send to registered email and once verificat
 3)All data will be saved in mongodb database
 
 Technology's used:- Reactjs, JavaScript, Nodejs, MongoDB, CSS, Bootstrap, HTML
+Frontend page:- Responsive page
