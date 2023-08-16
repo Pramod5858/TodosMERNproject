@@ -1,0 +1,52 @@
+Dear Candidate,
+
+                     I am pleased to inform you that you have been shortlisted for an interview for the position of "MERN Stack Developer" at "Arete Brains Pvt Ltd". We were impressed by your application and believe that you have the skills and experience that we are looking for.
+
+                As a first step of your interview process we have a code assignment round as below for creating MERN stack todo APP. 
+
+
+A. Set up the development environment:
+
+1. Install Node.js and npm on your machine.
+
+2. Create a mongodb cluster account on mongodb cloud here
+3. Create a new Node.js project using npm:
+
+B. Create a basic Express server.
+
+1. Define the routes for CRUD operations for a todo list, such as GET /todos, POST /todos, PUT /todos/:id, and DELETE /todos/:id.
+
+2. Set up the connection to MongoDB using Mongoose with A.1.
+
+
+C. Set up the frontend using React:
+
+1. Define the components for the todo list, such as TodoList, TodoItem, and TodoForm.
+
+2. Use axios to make API calls to the backend API.
+
+3. Test the app:
+
+start the backend and frontend on 2 different ports by adding single script to you nodejs package.js use concurrently and nodemon.
+
+Open the app in a web browser and test the functionality of the todo list.
+
+Optional: add features such as user authentication, validation, and error handling.
+
+These are the basic steps for building a todo app using the MERN stack. You can customize the app to fit your specific requirements and add more features as needed.
+
+
+PFA for app visuals 
+
+
+Adding test suites like zest enzyme would add plus to the candidature.
+
+I will notify you of the interview details once you complete the task.
+
+
+
+Thanks & Regards,
+
+HR,
+
+Arete Brains Pvt Ltd.
